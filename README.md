@@ -1,4 +1,6 @@
-EMPATHY PREDICTION USING MULTILAYER PERCEPTRON
+# EMPATHY PREDICTION USING MULTILAYER PERCEPTRON
+
+Problem Statement : You are working for a non-profit that is recruiting student volunteers to help with Alzheimer's patients. You have been tasked with predicting how suitable a person is for this task by predicting how empathetic he or she is on the scale of 1 to 5.
 
 Steps to execute the project :
 
