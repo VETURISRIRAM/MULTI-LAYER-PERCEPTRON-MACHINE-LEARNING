@@ -1,6 +1,6 @@
 # EMPATHY PREDICTION USING MULTILAYER PERCEPTRON
 
-Problem Statement : You are working for a non-profit that is recruiting student volunteers to help with Alzheimer's patients. You have been tasked with predicting how suitable a person is for this task by predicting how empathetic he or she is on the scale of 1 to 5.
+In this project, the task is to recruit student volunteers to help with Alzheimer's patients. To recruit a good bunch of volunteers, it is very important to know how empathetic they are. The project deals with the predictions of the empathy levels of the students on a scale of 1 to 5 from the survey results aquired from the Young People Survey dataset obtained from Kaggle. 
 
 Steps to execute the project :
 
