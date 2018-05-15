@@ -1,8 +1,10 @@
 # EMPATHY PREDICTION USING MULTILAYER PERCEPTRON
 
+*"Most people think empathy is something that you reserve for your life, your family or your friends but the reality is that it is an existential priority for a business. Our business is to meet unmet, unarticulated needs of our customers. There is no way that innovation is gonna come out if we don’t listen to the words and understand the true meaning behind them by being empathetic."* - **Satya Nadella, CEO of Microsoft**
+
 In this project, the task is to recruit student volunteers to help with Alzheimer's patients. To recruit a good bunch of volunteers, it is very important to know how empathetic they are. The project deals with the predictions of the empathy levels of the students on a scale of 1 to 5 from the survey results aquired from the Young People Survey dataset obtained from Kaggle. 
 
-Steps to execute the project :
+## Steps to execute the project :
 
 1) Download the entire <a href="https://github.com/VETURISRIRAM/MULTI-LAYER-PERCEPTRON-MACHINE-LEARNING">repository.</a>
 2) Please find the dataset from the <a href="https://www.kaggle.com/miroslavsabo/young-people-survey/">link.</a>
